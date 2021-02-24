@@ -3,6 +3,7 @@ package com.geochem.fontawesomeexample
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 //first
+//second
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
